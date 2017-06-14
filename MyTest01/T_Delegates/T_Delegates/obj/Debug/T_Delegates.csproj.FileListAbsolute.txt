@@ -1,0 +1,6 @@
+C:\Users\jin\Documents\Visual Studio 2017\Projects\Mytest01\T_Delegates\T_Delegates\bin\Debug\T_Delegates.exe.config
+C:\Users\jin\Documents\Visual Studio 2017\Projects\Mytest01\T_Delegates\T_Delegates\bin\Debug\T_Delegates.exe
+C:\Users\jin\Documents\Visual Studio 2017\Projects\Mytest01\T_Delegates\T_Delegates\bin\Debug\T_Delegates.pdb
+C:\Users\jin\Documents\Visual Studio 2017\Projects\Mytest01\T_Delegates\T_Delegates\obj\Debug\T_Delegates.csprojResolveAssemblyReference.cache
+C:\Users\jin\Documents\Visual Studio 2017\Projects\Mytest01\T_Delegates\T_Delegates\obj\Debug\T_Delegates.exe
+C:\Users\jin\Documents\Visual Studio 2017\Projects\Mytest01\T_Delegates\T_Delegates\obj\Debug\T_Delegates.pdb

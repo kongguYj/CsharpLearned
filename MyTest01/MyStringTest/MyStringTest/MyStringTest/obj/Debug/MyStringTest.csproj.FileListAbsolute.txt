@@ -1,0 +1,6 @@
+C:\Users\jin\Documents\Visual Studio 2017\Projects\MyTest01\CsharpLearned\MyTest01\MyStringTest\MyStringTest\MyStringTest\bin\Debug\MyStringTest.exe.config
+C:\Users\jin\Documents\Visual Studio 2017\Projects\MyTest01\CsharpLearned\MyTest01\MyStringTest\MyStringTest\MyStringTest\bin\Debug\MyStringTest.exe
+C:\Users\jin\Documents\Visual Studio 2017\Projects\MyTest01\CsharpLearned\MyTest01\MyStringTest\MyStringTest\MyStringTest\bin\Debug\MyStringTest.pdb
+C:\Users\jin\Documents\Visual Studio 2017\Projects\MyTest01\CsharpLearned\MyTest01\MyStringTest\MyStringTest\MyStringTest\obj\Debug\MyStringTest.csprojResolveAssemblyReference.cache
+C:\Users\jin\Documents\Visual Studio 2017\Projects\MyTest01\CsharpLearned\MyTest01\MyStringTest\MyStringTest\MyStringTest\obj\Debug\MyStringTest.exe
+C:\Users\jin\Documents\Visual Studio 2017\Projects\MyTest01\CsharpLearned\MyTest01\MyStringTest\MyStringTest\MyStringTest\obj\Debug\MyStringTest.pdb

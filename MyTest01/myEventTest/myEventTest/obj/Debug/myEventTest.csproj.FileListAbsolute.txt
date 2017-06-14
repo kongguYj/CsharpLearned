@@ -1,0 +1,12 @@
+C:\Users\jin\Documents\Visual Studio 2017\Projects\Mytest01\myEventTest\myEventTest\bin\Debug\myEventTest.exe.config
+C:\Users\jin\Documents\Visual Studio 2017\Projects\Mytest01\myEventTest\myEventTest\bin\Debug\myEventTest.exe
+C:\Users\jin\Documents\Visual Studio 2017\Projects\Mytest01\myEventTest\myEventTest\bin\Debug\myEventTest.pdb
+C:\Users\jin\Documents\Visual Studio 2017\Projects\Mytest01\myEventTest\myEventTest\obj\Debug\myEventTest.csprojResolveAssemblyReference.cache
+C:\Users\jin\Documents\Visual Studio 2017\Projects\Mytest01\myEventTest\myEventTest\obj\Debug\myEventTest.exe
+C:\Users\jin\Documents\Visual Studio 2017\Projects\Mytest01\myEventTest\myEventTest\obj\Debug\myEventTest.pdb
+C:\Users\QJ\Documents\Visual Studio 2017\Projects\CsharpLearned\MyTest01\myEventTest\myEventTest\bin\Debug\myEventTest.exe.config
+C:\Users\QJ\Documents\Visual Studio 2017\Projects\CsharpLearned\MyTest01\myEventTest\myEventTest\bin\Debug\myEventTest.exe
+C:\Users\QJ\Documents\Visual Studio 2017\Projects\CsharpLearned\MyTest01\myEventTest\myEventTest\bin\Debug\myEventTest.pdb
+C:\Users\QJ\Documents\Visual Studio 2017\Projects\CsharpLearned\MyTest01\myEventTest\myEventTest\obj\Debug\myEventTest.csprojResolveAssemblyReference.cache
+C:\Users\QJ\Documents\Visual Studio 2017\Projects\CsharpLearned\MyTest01\myEventTest\myEventTest\obj\Debug\myEventTest.exe
+C:\Users\QJ\Documents\Visual Studio 2017\Projects\CsharpLearned\MyTest01\myEventTest\myEventTest\obj\Debug\myEventTest.pdb

@@ -1,0 +1,5 @@
+C:\Users\jin\Documents\Visual Studio 2017\Projects\Mytest01\MyLambdaTest\MyLambdaTest\bin\Debug\MyLambdaTest.exe.config
+C:\Users\jin\Documents\Visual Studio 2017\Projects\Mytest01\MyLambdaTest\MyLambdaTest\bin\Debug\MyLambdaTest.exe
+C:\Users\jin\Documents\Visual Studio 2017\Projects\Mytest01\MyLambdaTest\MyLambdaTest\bin\Debug\MyLambdaTest.pdb
+C:\Users\jin\Documents\Visual Studio 2017\Projects\Mytest01\MyLambdaTest\MyLambdaTest\obj\Debug\MyLambdaTest.exe
+C:\Users\jin\Documents\Visual Studio 2017\Projects\Mytest01\MyLambdaTest\MyLambdaTest\obj\Debug\MyLambdaTest.pdb
