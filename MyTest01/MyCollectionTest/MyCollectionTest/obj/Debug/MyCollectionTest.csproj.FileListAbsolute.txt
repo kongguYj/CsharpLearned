@@ -1,0 +1,6 @@
+H:\tmp\CsharpLearned\MyTest01\MyCollectionTest\MyCollectionTest\bin\Debug\MyCollectionTest.exe.config
+H:\tmp\CsharpLearned\MyTest01\MyCollectionTest\MyCollectionTest\bin\Debug\MyCollectionTest.exe
+H:\tmp\CsharpLearned\MyTest01\MyCollectionTest\MyCollectionTest\bin\Debug\MyCollectionTest.pdb
+H:\tmp\CsharpLearned\MyTest01\MyCollectionTest\MyCollectionTest\obj\Debug\MyCollectionTest.csprojResolveAssemblyReference.cache
+H:\tmp\CsharpLearned\MyTest01\MyCollectionTest\MyCollectionTest\obj\Debug\MyCollectionTest.exe
+H:\tmp\CsharpLearned\MyTest01\MyCollectionTest\MyCollectionTest\obj\Debug\MyCollectionTest.pdb
