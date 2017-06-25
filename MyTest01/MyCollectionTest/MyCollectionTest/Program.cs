@@ -30,6 +30,9 @@ namespace MyCollectionTest
             }
 
             Console.ReadKey();
+
+            racers.ForEach(Console.WriteLine);
+            Console.ReadKey();
         }
     }
  }
